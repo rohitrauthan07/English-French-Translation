@@ -1,6 +1,4 @@
-# English-French-Translation
-
-# English to French Translation using Hugging Face Transformers
+# English to French Translation
 
 This project fine-tunes a pretrained MarianMT (Opus MT) model to translate English to French using a custom dataset loaded directly from Google Sheets.
 
